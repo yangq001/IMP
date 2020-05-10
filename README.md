@@ -12,7 +12,7 @@ See package manual for more description
 
 
 
-## R code for IMP with Rcpp
+## R code for IMP implemented in Rcpp
 *aimp.cpp*
 
 Usage:
