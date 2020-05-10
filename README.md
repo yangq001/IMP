@@ -1,8 +1,8 @@
-## IMP
+# IMP
 Importance sampling for aSPU
 
 
-# IMPaSPU: R package for IMP without using Rcpp
+## IMPaSPU: R package for IMP without using Rcpp
 *IMPaSPU_0.13.tar.gz*
 See package manual for more description
 
@@ -12,7 +12,7 @@ See package manual for more description
 
 
 
-# R code for IMP with Rcpp
+## R code for IMP with Rcpp
 *aimp.cpp*
 
 Usage:
